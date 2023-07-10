@@ -1,3 +1,16 @@
+## Rock-Paper-Scissors Game
+
+# Instructions on how to use the code
+# 1. This code is written in R script file.
+# 2. Open RStudio and navigate to the directory where the file is saved.
+# 3. Run the file by clicking the "Run" button or by pressing Ctrl+Enter.
+# 4. Follow the instructions on the screen to play the game. 
+
+## Additional things to keep in mind ##
+# 1. The code is written in R 4.0.0 or later.
+# 2. You will need to have R installed on your computer in order to run the code.
+# 3. The code requires the dplyr package. You can install it by running the following command: install.packages("dplyr")
+
 library(dplyr)
 
 writeLines(c("  Welcome to Rock-Paper-Scissors Game!",
