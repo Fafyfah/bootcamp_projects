@@ -11,3 +11,6 @@ Data science bootcamp with DataRockie (Batch 6)\
 
 # Sprint 04 - Data transformation
 [nyc_flights_2013_analysis](https://colab.research.google.com/drive/1uZ5_RKi5t0CUNY-h6r1BQnlEh_MSeoiB?usp=sharing) - Using `dplyr` package in R to analyze `nycflight13` dataset.
+
+# Sprint 06 - Statistics
+[titanic_train_model](Sprint_06-Essential_Statistics/titanic_train_model.pdf) - Using `titanic_train` dataset to build models in `R` that predict whether a passenger survived based on passenger class and age.
