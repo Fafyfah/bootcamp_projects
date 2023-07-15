@@ -17,3 +17,5 @@ Data science bootcamp with DataRockie (Batch 6)\
 
 # Sprint 08 - Intro to python programming
 [Rock-paper-scissors and ATM_OOP](https://colab.research.google.com/drive/1L2ZtKWO-EsqluU6Q6oCx2letxC9KYhd6?usp=sharing) - This python notebook includes 1) rock-paper-scissors game with a bot 2) ATM class project created by object-oriented programming (OOP). The ATM class has 5 methods that can interact with the users
+
+# Sprint 09 - Pandas
