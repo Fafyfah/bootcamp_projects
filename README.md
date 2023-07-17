@@ -13,7 +13,7 @@ Data science bootcamp with DataRockie (Batch 6)\
 [nyc_flights_2013_analysis](https://colab.research.google.com/drive/1uZ5_RKi5t0CUNY-h6r1BQnlEh_MSeoiB?usp=sharing) - Using `dplyr` package in R to analyze `nycflight13` dataset.
 
 # Sprint 06 - Statistics
-[titanic_train_model](Sprint_06-Essential_Statistics/titanic_train_model.pdf) - Using `titanic_train` dataset to build models in `R` that predict whether a passenger survived based on passenger class and age.
+[titanic_train_model](Sprint_06-Essential_Statistics/titanic_train_edit.pdf) - Using `titanic_train` dataset to build models in `R` that predict whether a passenger survived based on passenger class and age.
 
 # Sprint 08 - Intro to python programming
 [Rock-paper-scissors and ATM_OOP](https://colab.research.google.com/drive/1L2ZtKWO-EsqluU6Q6oCx2letxC9KYhd6?usp=sharing) - This python notebook includes 1) rock-paper-scissors game with a bot 2) ATM class project created by object-oriented programming (OOP). The ATM class has 5 methods that can interact with the users
