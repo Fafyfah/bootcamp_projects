@@ -4,7 +4,8 @@
 
 In this project, I created a restaurant database for “Bonnie’s Pizzeria”, a fictional homemade pizzeria that operates only on a delivery platform. Customers can place their orders and made their payments through multiple platforms that the pizzeria uses. The database created allows the pizzeria to track orders placed and payment data, this database could be used to improve the customer experience and increase sales of the restaurant.
 
-[bonnie_pizzeria.db](bonnie_pizzeria.db) - This is SQLite database file of Bonnie’s Pizzeria.
+[bonnie_pizzeria.db](bonnie_pizzeria.db) - SQLite database file of Bonnie’s Pizzeria. <br />
+[bonnie_er_diagram.png](bonnie_er_diagram.png) - ER Diagram that shows relationships between tables in Bonnie's Pizzeria database.
 
 The database will contain 6 tables including 
 1. menu 
