@@ -7,7 +7,7 @@ Data science bootcamp with DataRockie (Batch 6)\
 [spreadsheets](https://docs.google.com/spreadsheets/d/1By3PAaK0aRvBT94eZa6vBbC0EIvJ-h3Si9XmOcRt31k/edit?usp=sharing) - Project includes Dynamic Query, Converting TH date to EN date with regular expresstion, and ID Card Parser with regular expression.
 
 # Sprint 02 - SQL Databases
-[bonnie_pizzeria.db](Sprint_02-SQL/bonnie-pizzeria.db) & [bonnie_query.sql](Sprint_02-SQL/bonnie_query.sql) - A restaurant database that contains 5 tables with SQL queries 
+[bonnie_pizzeria.db](Sprint_02-SQL/bonnie_pizzeria.db) & [bonnie_query.sql](Sprint_02-SQL/bonnie_query.sql) - A restaurant database that contains 5 tables with SQL queries 
 
 # Sprint 03 - R Programming
 [Rock_Paper_Scissors_R.R](Sprint_03-R_Programming/Rock_Paper_Scissors_R.R) - A rock-paper-scissors game with a bot written in R.
