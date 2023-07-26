@@ -22,6 +22,7 @@ Data science bootcamp with DataRockie (Batch 6)\
 [Rock-paper-scissors and ATM_OOP](https://colab.research.google.com/drive/1L2ZtKWO-EsqluU6Q6oCx2letxC9KYhd6?usp=sharing) - This python notebook includes 1) rock-paper-scissors game with a bot 2) ATM class project created by object-oriented programming (OOP). The ATM class has 5 methods that can interact with the users
 
 # Sprint 09 - Pandas 
-Using pandas library in python to analyze data.
+[Analyzing_sales_data](https://datalore.jetbrains.com/notebook/W7I74JMZPav5kPBU9p9V20/2icaE3Cd9MwpRSBQvMwjEt) - Using `pandas` library in python to analyze data.
 
 # Sprint 10 - Dashboard
+[Nintendo switch video games sales](https://public.tableau.com/views/NIntendoswitchvideogamessales/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) - Using `Tableau Public` to create dashboard showing Nintendo switch video games sales.
