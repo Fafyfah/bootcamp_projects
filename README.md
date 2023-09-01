@@ -1,6 +1,6 @@
 # Data Science Bootcamp Projects
-These below are the homework I've done for Data science bootcamp with DataRockie (Batch 6). 
-<br><br>
+Data science bootcamp with [DataRockie](https://datarockie.com/hello/) (Batch 6) is a 6-month intensive program that provides solid foundations on these topics : Spreadsheets, SQLdatabases, R, Python, Data Transformation, Data Visualization, Statistics, Intro to Machine Learning, and Tableau.
+These below are the homework I've done for this bootcamp. 
 
 ## Sprint 01 - Spreadsheets
 [spreadsheets](https://docs.google.com/spreadsheets/d/1By3PAaK0aRvBT94eZa6vBbC0EIvJ-h3Si9XmOcRt31k/edit?usp=sharing) - Project includes Dynamic Query, Converting TH date to EN date with regular expresstion, and ID Card Parser with regular expression.
