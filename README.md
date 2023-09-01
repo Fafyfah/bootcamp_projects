@@ -1,5 +1,5 @@
 # Data Science Bootcamp Projects
-Data science bootcamp with [DataRockie](https://datarockie.com/hello/) (Batch 6) is a 6-month intensive program that provides solid foundations on these topics : Spreadsheets, SQLdatabases, R, Python, Data Transformation, Data Visualization, Statistics, Intro to Machine Learning, and Tableau.
+Data science bootcamp with [DataRockie](https://datarockie.com/hello/) (Batch 6) is a 6-month intensive program that provides solid foundations on these topics : Spreadsheets, SQLdatabases, R, Python, Data Transformation, Data Visualization, Statistics, Intro to Machine Learning, and Dashboard.
 These below are the homework I've done for this bootcamp. 
 
 ## Sprint 01 - Spreadsheets
